@@ -1,0 +1,14 @@
+{
+  "name": "Chrome ECG with Arduino",
+  "description": "ECG with Chrome and Arduino",
+  "version": "0.1",
+  "manifest_version": 2,
+  "permissions" : [
+    "serial"
+  ],
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  }
+}
