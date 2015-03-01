@@ -1,4 +1,4 @@
-# Arduino EKH Chrome Interface
+# Arduino EKG Chrome Interface
 
 ## Overview
 
